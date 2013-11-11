@@ -17,10 +17,10 @@ const short SIN_BUTTON = 52;
 const short NEWSIN_BUTTON = 53;
 
 // synth A
-const short ABIT0 = 10;
-const short ABIT1 = 11;
-const short ABIT2 = 12;
-const short ABIT3 = 13;
+const short ABIT0 = 13;
+const short ABIT1 = 12;
+const short ABIT2 = 11;
+const short ABIT3 = 10;
 
 // synth B
 const short BGND = 22;
